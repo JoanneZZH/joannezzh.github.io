@@ -10,6 +10,7 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /2020/01/08/Zhou-Zihan/
 
 Sitemap: http://joannezzh.github.io/sitemap.xml
 Sitemap: http://joannezzh.github.io/baidusitemap.xml
